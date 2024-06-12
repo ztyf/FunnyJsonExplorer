@@ -1,0 +1,28 @@
+{
+    "technology": {
+        "work": {
+            "day": "8h",
+            "eve": "5h"
+        },
+        "employee Number": 100,
+        "employer": {
+            "boss":{
+                "boss A": null,
+                "boss B": null
+            },
+            "vice boss":{
+                "vice boss 1": null,
+                "vice boss 2": null,
+                "vice boss 3": "bxx"
+            }
+        }
+    },
+    "chemical": {
+        "figures": 400,
+        "boxes":{
+            "this value is": false,
+            "that value is": true
+        },
+        "sodu": "homework"
+    }
+}
